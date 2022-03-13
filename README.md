@@ -12,7 +12,7 @@ password: password123
 role: ADMIN
 
 ## Steps to generate access token for user
-Run this app with 'npm run start'
-Visit (link)[http:localhiost:3000/login]
-Use credentials above to login for user
-Copy access token from browser console
+- Run this app with 'npm run start'
+- Visit (login page url)[http:localhiost:3000/login]
+- Use credentials above to login for user
+- Copy access token from browser console
